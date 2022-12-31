@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **HTML5 & CSS3**
 
-- 🤝 I’m looking for help with **Web Development Prjects**
+- 🤝 I’m looking for help with **Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://ujjawaltyagii.github.io/Personal-Portfolio/](https://ujjawaltyagii.github.io/Personal-Portfolio/)
 

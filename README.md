@@ -43,8 +43,8 @@
 
 <div align="center">
 <h3>Stats : </h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjawaltyagii&show_icons=true&locale=en&layout=compact" alt="ujjawaltyagii" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ujjawaltyagii&show_icons=true&locale=en&layout=compact" alt="ujjawaltyagii" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjawaltyagii&show_icons=true&locale=en" alt="ujjawaltyagii" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ujjawaltyagii&show_icons=true&locale=en" alt="ujjawaltyagii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjawaltyagii&" alt="ujjawaltyagii" /></p></div>

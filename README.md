@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Backend Development and Data Structures**
 
-- 👯 I’m looking to collaborate on **HTML5, CSS3 & Tailwind CSS**
+- 👯 I’m looking to collaborate on **HTML5, CSS3, Tailwind CSS & JavaScript**
 
 - 🤝 I’m looking for help with **Web Development Projects**
 
-- 💬 Ask me about **Tailwind CSS**
+- 💬 Ask me about **Tailwind CSS & JavaScript**
 
 - 📫 How to reach me **ujjawal2002tyagi@gmail.com**
 <hr>
